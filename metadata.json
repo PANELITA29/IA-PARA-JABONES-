@@ -1,0 +1,5 @@
+{
+  "name": "Artisanal Soap Image Generator",
+  "description": "An application that generates images of 100% handmade soaps using the Gemini API.",
+  "requestFramePermissions": []
+}
